@@ -22,4 +22,4 @@
     plt.scatter(X,y)
     plt.show()
 
-![Graph](D:\GitHub\SciKit-Learn\regression.png)
+![Graph](https://github.com/AntiAir/SciKit-Learn/blob/master/regression.png?raw=true)
